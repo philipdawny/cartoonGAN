@@ -1,0 +1,12 @@
+data_dir: "/nfs/home/tgv3756/GenAI/Project/src/hw_5/data/1"
+loader_workers: 2
+batch_size: 64
+image_size: 64
+num_channels: 3
+random_dim: 100
+gen_dim: 64
+disc_dim: 64
+num_epochs: 25
+lr: 0.0002
+beta1: 0.5
+ngpu: 1
