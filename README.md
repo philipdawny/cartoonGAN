@@ -1,4 +1,4 @@
-# MLDS Generative AI - Assignment 5
+# Cartoon Image Generation Using GANs
 
 ## Steps to run code:
 
